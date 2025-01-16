@@ -9,7 +9,7 @@ assignees: ''
 
 **En tant que** [rôle]  
  **J'ai besoin de** [fonction]  
- **Pour que** [bénéfice]  
+ **Afin de** [bénéfice]  
    
  ### Détails et hypothèses
  * [documentez ce que vous savez]
